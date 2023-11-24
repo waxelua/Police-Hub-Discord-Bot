@@ -10,9 +10,9 @@
 #########################################################################
 bot:
   # Discord botunuzun tokeni
-  token: ''
+  token: 'MTE3NzQwNTI5ODEwNTkyNTYzMw.G67prG.Rr4qCfbPTrg6LEXXT1G8J65D6vIzSk3wDWdTKo'
   # Discord botunuzun application idsi
-  id: ''
+  id: '1177405298105925633'
   # Discord botunun durum kısmı
   status:
     # Discord botunun açıklma kısmındaki event; playing = Oynuyor, streaming = Yayında, listening = Dinliyor, watching = İzliyor, competing = Yarışmada yarışıyor.
@@ -20,14 +20,14 @@ bot:
     # Discord botunun açıklama yazısı; %onDutyPolice% yazarak aktif mesaideki memurların sayısını gösterebilirsiniz.
     text: '%onDutyPolice% kişi şuanda mesaide!'
     # Discord botunun açıklma kısmındaki event streaming olarak ayarlanırsa aşağıdaki twitch kısmını doldurunuz.
-    twitch: 'https://www.twitch.tv/example'
+    twitch: 'https://www.twitch.tv/waxethe'
     # Discord botunun aktiflik kısmı; online = Aktif, idle = Boşta, dnd = Rahatsız Etmeyin, invisible = Çevrimdışı.
     status: 'idle'
 guild:
   # Discord sunucunuzun idsi
-  id: ''
+  id: '1174723652504264744'
 settings:
-  departmentName: 'LSPD'
+  departmentName: 'BCSO'
   departmentLogo: 'https://static.wikia.nocookie.net/nopixel/images/4/43/LSPD3.png'
   departmentBanner: 'https://forum.cfx.re/uploads/default/original/4X/f/7/e/f7e79012c44e49af0a8f38dbb0d70dc324f3f9a7.png'
   departmentColor: '#0000ff'
